@@ -1,0 +1,12 @@
+.titulo2 {
+    color: white;
+}
+body {
+    background-color: forestgreen;
+    display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+flex-direction: column;
+
+}
